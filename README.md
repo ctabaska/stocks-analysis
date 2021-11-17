@@ -8,6 +8,14 @@ The purpose of this script is to go through the stock market and evaluate the st
 
 ### Results
 
-![This is an image]()
+After refactoring our script we were able to get about a 60% decrease in scripting time.
+
+Here is the runtime for the 2017 spreedsheet:
+
+![2017 run time](https://github.com/ctabaska/stocks-analysis/blob/03efa611b7d60fa8790628fdf63285bdab3473f9/Resources/VBA_Challenge_2017.png)
+
+Here is the runtime of the 2018 spreedsheet:
+
+![2018 run time](https://github.com/ctabaska/stocks-analysis/blob/03efa611b7d60fa8790628fdf63285bdab3473f9/Resources/VBA_Challenge_2018.png)
 
 ### Summary
